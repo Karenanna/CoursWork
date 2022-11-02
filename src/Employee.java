@@ -40,6 +40,6 @@ public class Employee {
     }
     @Override
     public String toString (){
-        return id+ ". " + fullName + "; Номер отдела:" + department + "; Зарплата:" + salary;
+         return id+ ". " + fullName + "; Номер отдела:" + department + "; Зарплата:" + salary;
     }
 }

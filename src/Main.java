@@ -81,7 +81,7 @@ public class Main {
     public static void printFullNames() {
         for (int i = 0; i < employees.length; i++) {
             if(employees[i] != null){
-                System.out.println(employees[i].getFullName());
+                 System.out.println(employees[i].getFullName());
             }
 
         }
